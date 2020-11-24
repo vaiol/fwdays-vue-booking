@@ -1,26 +1,12 @@
-### Topics
-1. Presentation of Vuetify 3 https://www.youtube.com/watch?v=aXY4upCtiPI
-2. Discord channel
-
-### Live coding
-1. Go through the project. What we have?
-1. Change brandName and Icon
-    1. [Text and typography](https://vuetifyjs.com/en/styles/text-and-typography/#rtl-alignment)
-    1. [Icons](https://vuetifyjs.com/en/features/icons/#material-design-icons)
-1. In detail go through the App.vue and all new stuff. 
-    1. [Flex helpers](https://vuetifyjs.com/en/styles/flex)
-    1. [Buttons (general)](https://vuetifyjs.com/en/components/buttons/)
-    1. [Spacer (grid)](https://vuetifyjs.com/en/components/grids/#v-row)
-    1. [App bars](https://vuetifyjs.com/en/components/app-bars/)
-    1. [Application layout](https://vuetifyjs.com/en/components/application/)
-1. Change theme
-    1. [Colors](https://vuetifyjs.com/en/styles/colors/#material-colors)
-    1. [Theme](https://vuetifyjs.com/en/features/theme/)
-    
-
+# Vuetify in practice
+### Author
+Alexander Stepanov
+[LikedIn](https://www.linkedin.com/in/astepano)   
+[GitHub](https://github.com/vaiol)   
+[Telegram channel with announcements](https://t.me/stepanovin)   
 
 ### Instructions
-#### Versions used on webinar:
+#### Versions will be used on webinar:
 `node: v14.15.1`  
 `npm: v6.14.9`  
 `vue-cli: v4.5.9`  
