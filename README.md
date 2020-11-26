@@ -5,9 +5,10 @@ Alexander Stepanov
 [GitHub](https://github.com/vaiol)   
 [Telegram channel with announcements](https://t.me/stepanovin)   
 
-### Topics
+### Links
 1. Presentation of Vuetify 3 https://www.youtube.com/watch?v=aXY4upCtiPI
-2. Discord channel
+1. Discord https://discord.com/invite/s93b7Fv
+1. Official documentation https://vuetifyjs.com/en/
 
 ### Live coding
 1. Go through the project. What we have?
@@ -48,9 +49,15 @@ Alexander Stepanov
 #### Prepare
 1. [Install](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/) nodejs
 1. [Install](https://cli.vuejs.org/ru/guide/installation.html) vue-cli `npm install -g @vue/cli`
+1. Clone repository https://github.com/vaiol/fwdays-vue-booking
+
+#### Create app
 1. Create app `vue create <app>`
+1. `cd <app>`
 1. Add Vuetify `vue add vuetify`   
-1. Or upload repo from git
+
+#### Libraries
+1. faker
 
 #### Start
 1. `npm i`
